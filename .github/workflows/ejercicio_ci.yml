@@ -3,7 +3,7 @@ name: Run tests
 on:
   push:
     branches: 
-      -config/ci
+      - config/ci
 
 jobs:
   pytest:
